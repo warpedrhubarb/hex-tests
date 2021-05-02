@@ -4,7 +4,7 @@
 
 ## Setup
 ```sh
-$ git clone https://github.com/warpedrhubarb/hex-tests.git
+$ git clone https://github.com/warpedrhubarb/jest-tests.git
 ```
 
 
